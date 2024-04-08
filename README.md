@@ -1,1 +1,0 @@
-# nlp_genai_study
